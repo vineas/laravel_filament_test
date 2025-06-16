@@ -14,7 +14,7 @@ Aplikasi ini merupakan sistem manajemen yang dibangun menggunakan Laravel dan Fi
 ### 🛠️ Admin
 Admin memiliki akses penuh terhadap modul berikut:
 
-- **Status Management**
+- **Task Management**
   - Melihat task
 
 - **Status Management**
