@@ -2,10 +2,10 @@
 
 ## 📌 Deskripsi Proyek
 
-Aplikasi ini merupakan sistem manajemen bug/issue tracker yang dibangun menggunakan Laravel dan Filament. Aplikasi ini memiliki dua peran utama:
+Aplikasi ini merupakan sistem manajemen yang dibangun menggunakan Laravel dan Filament. Aplikasi ini memiliki dua peran utama:
 
 - **Admin**: Bertanggung jawab mengelola data master seperti *Status* dan *Severity*.
-- **Developer**: Bertanggung jawab mencatat dan memperbarui *Task* (bugs, features, improvements, dll).
+- **Developer**: Bertanggung jawab mencatat dan memperbarui *Task*.
 
 ---
 
@@ -13,6 +13,9 @@ Aplikasi ini merupakan sistem manajemen bug/issue tracker yang dibangun mengguna
 
 ### 🛠️ Admin
 Admin memiliki akses penuh terhadap modul berikut:
+
+- **Status Management**
+  - Melihat task
 
 - **Status Management**
   - Membuat status baru
